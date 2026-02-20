@@ -12,6 +12,6 @@ Former bodybuilding athlete, turned teacher, homelab hobbyist & startup founder.
 
 🌙 Self-hosted utils on Docker via:
 
-[TlDraw.sukaseven](https://tldraw.sukaseven.com) 📚 · [Anyu.sukaseven](https://anyu.sukaseven.com) 📦 · [Banshi.sukaseven](https://banshi.sukaseven.com)  👾
+[TlDraw.sukaseven](https://tldraw.sukaseven.com) 📚 · [Anyu.sukaseven](https://anyu.sukaseven.com) 📦 · [Banshi.sukaseven](https://banshi.sukaseven.com)  👾 · [Hasaki.sukaseven](https://hasaki.sukaseven.com)  🔖
 
 🔱 I primarily use `Go` · `NodeJS` · `Java` | `React` · `Vue`
