@@ -8,7 +8,7 @@ Former bodybuilding athlete, turned teacher, homelab hobbyist & startup founder.
 
 [Caphne.co](https://caphne.co) - To help uni students find study buddies - **300 uni students** now
 
-[KatanaID.com](https://katanaid.com) - Brand name validator across domains, social handles, search presence for your next startup
+[KatanaID.com](https://katanaid.com) - Brand name validator for domains, social handles and search presence
 
 🌙 Self-hosted utils on Docker via:
 
