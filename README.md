@@ -1,6 +1,6 @@
 ### Hey, I'm Khiem 🍊
 
-Former bodybuilding athlete, turned teacher, homelab hobbyist & startup founder. Currently taking time off Uni to travel&nbsp;🇨🇳&nbsp;🇹🇼. See what I'm up to [sukaseven.com](https://sukaseven.com).
+Former bodybuilding athlete, turned teacher, homelab hobbyist & builder. Currently taking time off Uni to travel&nbsp;🇨🇳&nbsp;🇹🇼. See what I'm up to [sukaseven.com](https://sukaseven.com).
 
 ---
 
