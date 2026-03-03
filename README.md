@@ -4,9 +4,9 @@ Former bodybuilding athlete, turned teacher, homelab hobbyist & builder. Current
 
 ---
 
-✨ Building to serve a combined **400 users daily** with friends:
+✨ Building to serve a combined **300 users daily** with friends:
 
-[Caphne.co](https://caphne.co) - To help uni students find study buddies - **300 uni students** now
+[Caphne.co](https://caphne.co) - To help uni students find study buddies - **150 uni students** now
 
 [KatanaID.com](https://katanaid.com) - Brand name validator for domains, social handles and search presence
 
@@ -14,4 +14,6 @@ Former bodybuilding athlete, turned teacher, homelab hobbyist & builder. Current
 
 [TlDraw.sukaseven](https://tldraw.sukaseven.com) 📚 · [Anyu.sukaseven](https://anyu.sukaseven.com) 📦 · [Banshi.sukaseven](https://banshi.sukaseven.com)  👾 · [Hasaki.sukaseven](https://hasaki.sukaseven.com)  🔖
 
-🔱 I primarily use `Go` · `NodeJS` · `Java` | `React` · `Vue`
+🔱 I primarily use `Go` · `NodeJS` · `Java` | `React` · `Vue` | `Railway` `Cloudflare` `Docker`
+
+📬 `khiem@sukaseven.com`
