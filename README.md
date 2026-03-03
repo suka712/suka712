@@ -16,4 +16,4 @@ Former bodybuilding athlete, turned teacher, homelab hobbyist & builder. Current
 
 🔱 I primarily use `Go` · `NodeJS` · `Java` | `React` · `Vue` | `Railway` · `CF Pages` · `Docker`
 
-📬 khiem@sukaseven.com
+📬 Reach me: khiem@sukaseven.com
