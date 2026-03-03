@@ -14,6 +14,6 @@ Former bodybuilding athlete, turned teacher, homelab hobbyist & builder. Current
 
 [TlDraw.sukaseven](https://tldraw.sukaseven.com) 📚 · [Anyu.sukaseven](https://anyu.sukaseven.com) 📦 · [Banshi.sukaseven](https://banshi.sukaseven.com)  👾 · [Hasaki.sukaseven](https://hasaki.sukaseven.com)  🔖
 
-🔱 I primarily use `Go` · `NodeJS` · `Java` | `React` · `Vue` | `Railway` `Cloudflare` `Docker`
+🔱 I primarily use `Go` · `NodeJS` · `Java` | `React` · `Vue` | `Railway` · `CF Pages` · `Docker`
 
-📬 `khiem@sukaseven.com`
+📬 khiem@sukaseven.com
