@@ -6,7 +6,7 @@ Former bodybuilding athlete, turned teacher, homelab hobbyist & builder. I hike 
 
 ✨ Currently building to serve a combined **300 active users** with friends:
 
-[Caphne.co](https://caphne.co) - To help uni students find study buddies - **150 uni students** now.
+[Caphne.co](https://caphne.co) - Cà Phê Nè - To help uni students find study buddies - **200 uni students** now.
 
 [KatanaID.com](https://katanaid.com) - Brand name validator for domains, social handles and search presence
 
