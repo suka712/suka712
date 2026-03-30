@@ -252,6 +252,5 @@
   },
   "workbench.activityBar.location": "bottom",
   "workbench.editor.enablePreview": false,
-  "window.menuBarVisibility": "compact",
-  
+  "window.menuBarVisibility": "compact"
 }
