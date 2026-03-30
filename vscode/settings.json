@@ -1,0 +1,257 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  // 🐔 Font settings
+  "terminal.integrated.fontSize": 11,
+  // "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono",
+  "terminal.integrated.lineHeight": 1,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "470",
+  "editor.fontSize": 11.5,
+  "editor.lineHeight": 2.5,
+  "editor.tabSize": 2,
+  "editor.cursorBlinking": "blink",
+  "editor.cursorStyle": "line-thin",
+  "editor.scrollbar.verticalScrollbarSize": 8, // ✏️ Eliminate scrollbar indicators
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "visible",
+  "editor.guides.indentation": false,
+  "editor.guides.bracketPairs": false,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.renderControlCharacters": false,
+  "editor.renderWhitespace": "none",
+  "editor.lightbulb.enabled": "off",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.decorations.badges": false,
+  "workbench.tree.indent": 20, // 🌳 Explorer tree indent
+  "workbench.tree.enableStickyScroll": false,
+  "workbench.startupEditor": "none",
+  "workbench.editor.empty.hint": "hidden",
+  "settingsSync.ignoredExtensions": [],
+  "workbench.tree.renderIndentGuides": "none",
+  "extensions.ignoreRecommendations": true,
+  "workbench.navigationControl.enabled": false,
+  "window.commandCenter": false,
+  "scm.diffDecorationsGutterVisibility": "always",
+  "window.title": " ",
+  "workbench.colorCustomizations": {
+    // 🩹 Line highlight
+    "editor.lineHighlightBorder": "#00000000",
+    "editor.lineHighlightBackground": "#ffffff07",
+    // 🫧 Soft highlight
+    "editor.wordHighlightBorder": "#00000000",
+    "editor.wordHighlightBackground": "#ffffff10",
+    "editor.selectionHighlightBackground": "#ffffff14",
+    "editor.wordHighlightStrongBackground": "#ffffff14",
+    // 🧼 Strong highlight
+    "editor.selectionBackground": "#ffffff17",
+    "editor.selectionHighlightBorder": "#00000000",
+    // ✌️ Matching bracket highlight
+    "editorBracketMatch.border": "#00000000",
+    "editorBracketMatch.background": "#ffffff1e",
+    // 👉 UI Buttons
+    "button.hoverBackground": "#9200d0",
+    "button.background": "#8310b4",
+    "button.foreground": "#ffffff",
+    // 🌇 Title bar
+    "titleBar.activeForeground": "#939393",
+    "titleBar.activeBackground": "#111111",
+    "titleBar.inactiveBackground": "#151515",
+    "titleBar.inactiveForeground": "#5b5b5b",
+    // 📜 Tabs & Tabbar
+    "tab.hoverBackground": "#202020",
+    "tab.activeForeground": "#c8c8c8",
+    "tab.activeBackground": "#232323",
+    "tab.inactiveBackground": "#171717",
+    "editorGroupHeader.tabsBackground": "#171717",
+    // 📒 Editor
+    "editor.background": "#141414",
+    // 🥐 Breadcrumb
+    "breadcrumb.background": "#141414",
+    "breadcrumb.foreground": "#626262cc",
+    "breadcrumb.focusForeground": "#bfbfbf",
+    "breadcrumb.activeSelectionForeground": "#bfbfbf",
+    // 🐭 Srollbar
+    "scrollbarSlider.background": "#a08dff33",
+    "scrollbarSlider.hoverBackground": "#c4b8ff33",
+    "scrollbarSlider.activeBackground": "#a999ff7f",
+    // 1️⃣ Line number & Fold
+    "editor.foldBackground": "#ffffff07",
+    "editorGutter.background": "#141414",
+    "editorLineNumber.foreground": "#474747cc",
+    "editorLineNumber.activeForeground": "#bfbfbf",
+    // 🍺 Sidebar
+    "sideBar.border": "#00000000",
+    "sideBar.background": "#121212",
+    "sideBar.foreground": "#7c7c7c",
+    "sideBarTitle.foreground": "#afafaf",
+    "sideBarStickyScroll.background": "#00000000",
+    "sideBarSectionHeader.border": "#00000000",
+    "sideBarSectionHeader.background": "#00000000",
+    // 🔔 Git decorations
+    "gitDecoration.addedResourceForeground": "#55c369",
+    "gitDecoration.renamedResourceForeground": "#73c9b2",
+    "gitDecoration.deletedResourceForeground": "#d15959",
+    "gitDecoration.ignoredResourceForeground": "#595959",
+    "gitDecoration.modifiedResourceForeground": "#cb9655",
+    "gitDecoration.untrackedResourceForeground": "#6beec2",
+    // 📃 Explorer list
+    "list.hoverForeground": "#c4c4c4",
+    "list.hoverBackground": "#ffffff0e",
+    "list.inactiveSelectionBackground": "#ffffff14",
+    "list.inactiveSelectionForeground": "#c4c4c4",
+    // Activity bar
+    "activityBarTop.activeBackground": "#ffffff17",
+    "activityBarTop.foreground": "#868686",
+    "activityBarTop.background": "#0f0f0f",
+    "activityBarTop.inactiveForeground": "#616161",
+    // 🪟 Panel
+    "panel.border": "#00000000",
+    "panel.background": "#1e1e1e",
+    "panelTitle.activeForeground": "#bebebe",
+    "panelTitle.inactiveForeground": "#717171",
+    // ⚙️ Terminal & Output
+    "terminal.background": "#171717",
+    "terminal.foreground": "#949494",
+    "terminal.ansiBlack": "#1f1f1f",
+    "terminal.ansiRed": "#ff4747",
+    "terminal.ansiGreen": "#6aff6a",
+    "terminal.ansiYellow": "#ffdb58",
+    "terminal.ansiBlue": "#6baeff",
+    "terminal.ansiMagenta": "#ff64ff",
+    "terminal.ansiCyan": "#4e9bff",
+    "terminal.ansiWhite": "#ff4747",
+    "terminal.ansiBrightBlack": "#e2e2e2",
+    "terminal.ansiBrightRed": "#ff256a",
+    "terminal.ansiBrightGreen": "#4cff90",
+    "terminal.ansiBrightYellow": "#ffdb58",
+    "terminal.ansiBrightBlue": "#72aaff",
+    "terminal.ansiBrightMagenta": "#ff80ff",
+    "terminal.ansiBrightCyan": "#4ed9ff",
+    "terminal.ansiBrightWhite": "#ffffff",
+    // ⚡ Status bar & Remote
+    "statusBar.background": "#121212",
+    "statusBar.foreground": "#a5a5a5",
+    "statusBar.noFolderBackground": "#1e1e1e",
+    "statusBar.noFolderForeground": "#a5a5a5",
+    "statusBarItem.remoteBackground": "#2d2d2d",
+    "statusBarItem.remoteForeground": "#d8d8d8",
+    // 🌿 Git gutters
+    "editorGutter.addedBackground": "#487cff",
+    "editorGutter.deletedBackground": "#b01cc3",
+    "editorGutter.modifiedBackground": "#cb8400",
+    // 🐭 Editor & Terminal Cursor
+    "editorCursor.foreground": "#ffffff",
+    "terminalCursor.foreground": "#ffffff",
+    // 🌈 Brackets
+    "editorBracketHighlight.foreground1": "#4acece",
+    "editorBracketHighlight.foreground2": "#76bfff",
+    "editorBracketHighlight.foreground3": "#cf87ff",
+    "editorBracketHighlight.foreground4": "#f57de5",
+    "editorBracketHighlight.foreground5": "#ffe56f",
+    "editorBracketHighlight.foreground6": "#bdf575",
+    // 🧩 Removing border from the editor
+    "titleBar.border": "#00000000",
+    "editorGroupHeader.tabsBorder": "#00000000",
+    "editorGroupHeader.noTabsBorder": "#00000000",
+    "editorGroup.dropBackground": "#00000000",
+    "tab.shadow": "#00000000",
+    "tab.border": "#00000000",
+    "editorGroup.border": "#00000000",
+    "sideBarTitle.border": "#00000000",
+    "focusBorder": "#222222",
+    "tab.activeBorder": "#00000000",
+    "tab.activeBorderTop": "#00000000",
+    "tab.activeModifiedBorder": "#00000000",
+    "tab.inactiveModifiedBorder": "#00000000",
+    "tab.unfocusedActiveBorder": "#00000000",
+    "tab.unfocusedActiveBorderTop": "#00000000",
+    "tab.unfocusedActiveModifiedBorder": "#00000000",
+    "tab.unfocusedInactiveModifiedBorder": "#00000000",
+    "panelTitle.activeBorder": "#00000000",
+    "panelTitle.inactiveBorder": "#00000000",
+    "panelSection.border": "#00000000",
+    "panelSectionHeader.border": "#00000000",
+    "statusBar.border": "#00000000",
+    "statusBar.focusBorder": "#00000000",
+    "editorOverviewRuler.border": "#00000000",
+    "diffEditor.border": "#00000000",
+    "scrollbar.shadow": "#00000000",
+    // 🐮 Others
+    "editorGutter.foldingControlForeground": "#757575"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": ["comment", "comment.line", "comment.block"],
+        "settings": {
+          "foreground": "#ff7300" // 📝 Comment color
+        }
+      }
+    ]
+  },
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "name": {
+        "underline": "#72aaff"
+      }
+    }
+  },
+  "git.enableSmartCommit": true,
+  "editor.unicodeHighlight.allowedCharacters": {
+    "️": true,
+    " ": true,
+    "❯": true
+  },
+  "editor.stickyScroll.enabled": false,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "chat.commandCenter.enabled": false,
+  "workbench.settings.applyToAllProfiles": [],
+  "editor.matchBrackets": "always",
+  "window.newWindowProfile": "Default",
+  "terminal.integrated.shellIntegration.enabled": false,
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "git.confirmSync": false,
+  "explorer.confirmDelete": false,
+  "material-icon-theme.activeIconPack": "none",
+  "workbench.editor.tabSizing": "fixed",
+  "workbench.editor.tabSizingFixedMaxWidth": 140,
+  "highlight-matching-tag.showRuler": false,
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "explorer.confirmPasteNative": false,
+  "git.autofetch": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.wordWrapColumn": 400,
+  "git.openRepositoryInParentFolders": "never",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "workbench.colorTheme": "Aura Dark",
+  "window.titleBarStyle": "custom",
+  "window.customTitleBarVisibility": "auto",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "workbench.layoutControl.enabled": false,
+  "window.controlsStyle": "hidden",
+  "window.enableMenuBarMnemonics": false,
+  "window.menuStyle": "native",
+  "window.customMenuBarAltFocus": false,
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "workbench.activityBar.location": "bottom",
+  "workbench.editor.enablePreview": false,
+  "window.menuBarVisibility": "compact",
+  
+}
