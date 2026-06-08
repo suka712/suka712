@@ -1,6 +1,6 @@
 ### Hey, I'm Khiem 🍊
 
-Former bodybuilding athlete, turned teacher, homelab hobbyist & builder. I hike and camp on weekends too 🏔️. Travelling across &nbsp;🇨🇳&nbsp;🇹🇭&nbsp;🇰🇷&nbsp;🇹🇼. See what I'm up to [sukaseven.com](https://sukaseven.com).
+Former bodybuilding athlete, turned teacher, homelab hobbyist & builder. I hike and camp on weekends too 🏔️. Travelling across 🇨🇳🇹🇼🇹🇭🇰🇷. See what I'm up to [sukaseven.com](https://sukaseven.com).
 
 ---
 
