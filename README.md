@@ -18,6 +18,6 @@ Former bodybuilding athlete, turned teacher, homelab hobbyist & builder. I hike 
 
 [tldraw.sukaseven](https://tldraw.sukaseven.com) 📚 · [banshi.sukaseven](https://banshi.sukaseven.com)  👾 · [hasaki.sukaseven](https://hasaki.sukaseven.com)  🔖 · [hagi.sukaseven](https://hagi.sukaseven.com) 🦀
 
-🔱 I primarily use `Go` · `NodeJS` · `Java` | `React` · `Vue` | `Railway` · `CF Pages` · `Docker`
+🔱 I primarily use `Go` · `NodeJS` · `Java` | `React` · `Vue` | `AWS` · `Railway` · `Docker`
 
 📬 Reach me: khiem@sukaseven.com
