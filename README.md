@@ -1,6 +1,6 @@
 ### Hey, I'm Khiem 🍊
 
-Former bodybuilding athlete, turned teacher, homelab hobbyist & builder. I hike and camp on weekends too 🏔️. Travelling across 🇨🇳🇹🇼🇹🇭🇰🇷. See what I'm up to [sukaseven.com](https://sukaseven.com).
+Bodybuilding athlete, turned teacher & builder. I hike and camp on weekends too 🏔️. Travelling across 🇨🇳🇹🇼🇹🇭🇰🇷. See what I'm up to [sukaseven.com](https://sukaseven.com).
 
 ---
 
@@ -18,6 +18,6 @@ Former bodybuilding athlete, turned teacher, homelab hobbyist & builder. I hike 
 
 [tldraw.sukaseven](https://tldraw.sukaseven.com) 📚 · [banshi.sukaseven](https://banshi.sukaseven.com)  👾 · [hasaki.sukaseven](https://hasaki.sukaseven.com)  🔖 · [hagi.sukaseven](https://hagi.sukaseven.com) 🦀
 
-🍋‍🟩 I primarily use `Go` · `NodeJS` · `Java` | `React` · `Vue` | `AWS` · `Railway` · `Docker`
+🍋‍🟩 I primarily use `Go` · `TypeScript` · `Java` | `React` · `Vue` | `AWS` · `Railway` · `Docker`
 
 📬 Reach me: khiem@sukaseven.com
