@@ -1,6 +1,8 @@
 ### Hey, I'm Khiem 🍊
 
-Bodybuilding athlete, turned teacher & builder. I hike and camp on weekends too 🏔️. Travelling across 🇨🇳🇹🇼🇹🇭🇰🇷. See what I'm up to [sukaseven.com](https://sukaseven.com).
+Gen AI Resarch 🇹🇼 & Remote SWE 🇳🇴. I hike and camp on weekends too 🇨🇳🇹🇼🇹🇭🇰🇷🇻🇳.
+
+See where I'm at, what I'm bumping and what I'm up to: [sukaseven.com](https://sukaseven.com).
 
 ---
 
