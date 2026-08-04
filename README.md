@@ -1,6 +1,6 @@
 ### Hey, I'm Khiem 🍊
 
-Gen AI Research 🇹🇼 SWE 🇳🇴. I hike and camp on weekends too 🇨🇳🇹🇼🇰🇷🇻🇳🇹🇭.
+AI RA 🇹🇼 SWE 🇳🇴. I hike and camp on weekends too 🇨🇳🇹🇼🇰🇷🇻🇳🇹🇭.
 
 See where I'm at, what I'm bumping and what I'm up to: [sukaseven.com](https://sukaseven.com).
 
