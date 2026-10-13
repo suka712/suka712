@@ -14,8 +14,8 @@ See where I'm at, what I'm bumping and what I'm up to: [sukaseven.com](https://s
 
 🥥 Self-hosted on Docker and CLI utils:
 
-[tldraw.sukaseven](https://tldraw.sukaseven.com) 📚 · [banshi.sukaseven](https://banshi.sukaseven.com)  👾 · [hasaki.sukaseven](https://hasaki.sukaseven.com)  🔖 · [hagi.sukaseven](https://hagi.sukaseven.com) 🦀
+[hasaki.sukaseven](https://hasaki.sukaseven.com)  🔖 · [hagi.sukaseven](https://hagi.sukaseven.com) 🦀
 
-🍋‍🟩 I primarily use `Go` · `TypeScript` · `Java` | `React` · `Vue` | `AWS` · `Railway` · `Docker`
+🍋‍🟩 I primarily use `go` · `ts` · `claude` · `agy`
 
 📬 Reach me: khiem@sukaseven.com
