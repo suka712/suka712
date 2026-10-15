@@ -8,9 +8,9 @@ See where I'm at, what I'm bumping and what I'm up to: [sukaseven.com](https://s
 
 🍉 Currently building to serve **500 users** with friends:
 
-[Caphne.co](https://caphne.co) - Cà Phê Nè - To help uni students find study buddies - **200 uni students** now.
+[Caphne.co](https://caphne.co) - Studybuddy finder in Saigon - 400 users now.
 
-[KatanaID.com](https://katanaid.com) - Brand name validator for domains, social handles and search presence
+[KatanaID.com](https://katanaid.com) - Blazingly fast Normalization & Categorization API.
 
 🥥 Self-hosted on Docker and CLI utils:
 
